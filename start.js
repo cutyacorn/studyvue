@@ -63,3 +63,5 @@ var app7 = new Vue({
     ]
   }
 });
+
+//https://jsdev.kr/
